@@ -1,4 +1,4 @@
-Creating precise and reliable fMRI-based ROIs for track filtering
+Creating precise and reliable fMRI-based ROIs for tract filtering
 ================================================================================
 
 ## Background
