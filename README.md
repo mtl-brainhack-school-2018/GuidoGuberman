@@ -52,7 +52,7 @@ The script would call the Particle Filtering Tractography algorithm developed by
 The script would also need to call some fMRI tools in order to play around with the thresholds and generate masks from the activation peaks.
 
 ## EXTRA
-Given this once in a lifetime opportunity to interact with a large group of machine learning experts, I would like to take this script one step further. If the ratio of streamline count to 
+Given this once in a lifetime opportunity to interact with a group of smart and distinguished individuals, I would like to take this script one step further. If the ratio of streamline count to tract spread is indeed a good measure of tract "reliablity", then it is possible to tweak the fMRI-based ROI to maximize this ratio. It would be interesting if this script (or a second one?) could generate a trimmed version of the ROIs that would be maximally "reliable".
 
 ## Deliverables
 Ideally, I would like to have the script entirely written by the end of the the BrainHack School.
